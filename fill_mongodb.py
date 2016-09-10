@@ -136,7 +136,7 @@ def main():
     print '\nSecond example:\n'
     load_data_tweeter('tweets.json')
 
-    print 'Importing Data to MONGODB'
+    print '\nImporting Data to MONGODB from FILE'
     MongoDBPipeline(args.path)
 
 if __name__ == '__main__':
