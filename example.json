@@ -1,0 +1,3 @@
+{"name": "Juan Perez", "courses" : [{"name" : "Algorithm Analysis", "code" : "CS001", "grade" : 15 }, {"name" : "Discrete Mathematics", "code" : "CS031", "grade" : 13 }]}
+{"name" : "Luis Castro", "courses" : [{"name" : "Computer Science", "code" : "CS003", "grade" : 20 }, { "name" : "Discrete Mathematics", "code" : "CS031", "grade" : 18 }]}
+{"name" : "Karen Ruiz",  "courses" : [{"name" : "Algorithm Analysis", "code" : "CS001", "grade" : 16 }, {"name" : "Computer Science", "code" : "CS003", "grade" : 20 }, {"name" : "Discrete Mathematics", "code" : "CS031", "grade" : 18 }]}
